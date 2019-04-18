@@ -1,0 +1,29 @@
+.InputGroup {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  align-items: center;
+}
+.searchrate {
+  width: 100px;
+  height: 20px;
+}
+.input-group {
+  width: 50%;
+  justify-content: center;
+}
+
+.add {
+  width: 369px;
+}
+.addmodal {
+  margin-top: 50px;
+}
+
+.card-columns .card {
+  width: 70% !important;
+}
+.card-img-top {
+  height: 300px !important;
+}
